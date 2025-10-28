@@ -1,5 +1,5 @@
 const API_KEY = "3000f7194ae84ad4939145944251506";
-const BASE_URL = "http://api.weatherapi.com/v1";
+const BASE_URL = "https://api.weatherapi.com/v1";
 
 const toQuery = (params) =>
   Object.entries(params)
