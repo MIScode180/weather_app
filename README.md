@@ -3,7 +3,7 @@
 A modern, responsive Weather Application built with **React 19**, **Redux Toolkit**, **Tailwind CSS**, and **Shadcn UI**.  
 It fetches live weather data from **WeatherAPI.com** and provides real-time updates with a clean, animated interface.  
 
-🚀 **Live Demo:** ((https://weather-app-jade-rho-34.vercel.app/)/)  
+🚀 **Live Demo:** (https://weather-app-jade-rho-34.vercel.app/)  
 
 ---
 
