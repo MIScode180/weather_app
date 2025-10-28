@@ -1,12 +1,38 @@
-# React + Vite
+# 🌤️ Weather App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Weather Application built with **React 19**, **Redux Toolkit**, **Tailwind CSS**, and **Shadcn UI**.  
+It fetches live weather data from **WeatherAPI.com** and provides real-time updates with a clean, animated interface.  
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** ((https://weather-app-jade-rho-34.vercel.app/)/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧩 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Technology |
+|-----------|-------------|
+| Framework | React (Vite) |
+| UI Library | Shadcn UI + Radix UI |
+| Styling | Tailwind CSS + class-variance-authority + tailwind-merge |
+| State Management | Redux Toolkit + React Redux |
+| Routing | React Router v7 |
+| Form Handling | React Hook Form |
+| Icons | Lucide React |
+| Deployment | Vercel |
+| API Source | (https://www.weatherapi.com/) |
+
+---
+
+## 🌦️ Features
+
+✅ **Real-Time Weather Data** — Fetch current temperature, humidity, and conditions by city.  
+✅ **Redux Toolkit Integration** — Global state management for user input and weather data.  
+✅ **Shadcn + Tailwind Design** — Beautiful, responsive UI with smooth transitions.  
+✅ **Lucide Icons** — Modern icons for weather and UI components.  
+✅ **React Hook Form** — Efficient, validated input handling.  
+✅ **Error Handling** — Graceful fallback UI for invalid cities or failed API calls.  
+✅ **Dark Mode Ready** — Automatically adapts to system theme (optional).  
+✅ **Deployed on Vercel** — Fast, secure hosting with HTTPS support.  
+
+
+
